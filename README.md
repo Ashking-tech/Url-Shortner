@@ -126,9 +126,6 @@ Returns total clicks and visit timestamps.
 * [Express.js](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
 
-```
-
----
 
 
-```
+
